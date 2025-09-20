@@ -78,7 +78,7 @@ Alternatively, if you are running in a Colab environment, the Notebook already i
     Launch Jupyter Lab or Jupyter Notebook and open the `skeleton_model.ipynb` file.
 
     ```bash
-jupyter notebook skeleton_model.ipynb
+    jupyter notebook skeleton_model.ipynb
     ```
 
 4.  **Execute the Notebook Cells**: 
@@ -118,8 +118,6 @@ The `skeleton_model.ipynb` file details the entire model training workflow:
 
 The Notebook will display sample images with detected skeletal landmarks, as well as performance metrics (e.g., accuracy, classification report, and confusion matrix) after model training.
 
-![Example Gesture F](F.png)
-*Figure: An example image of gesture 'F', showing MediaPipe-detected skeletal landmarks.*
 
 ## Future Improvements
 
@@ -128,13 +126,7 @@ The Notebook will display sample images with detected skeletal landmarks, as wel
 *   Implement real-time gesture recognition capabilities.
 *   Optimize the model for deployment on edge devices.
 
-## Contributing
 
-Contributions to this project are welcome! If you have any suggestions or find bugs, please feel free to submit a Pull Request or open an Issue.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file (if present) for details.
 
 ---
 
